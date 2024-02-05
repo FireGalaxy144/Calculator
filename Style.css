@@ -19,7 +19,7 @@ body {
   width: 100%;
   border-radius: 12px;
   padding: 10px 20px 20px;
-  background: #fff;
+  background: #cc2727;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
 }
 .display {
@@ -44,11 +44,12 @@ body {
   border: none;
   font-size: 20px;
   cursor: pointer;
-  background-color: #eee;
+  background-color: #a39f9f;
 }
 .buttons button:active {
   transform: scale(0.99);
 }
 .operator {
-  color: #2f9fff;
+  color: #0ee932;
+  
 }
