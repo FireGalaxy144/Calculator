@@ -44,12 +44,12 @@ body {
   border: none;
   font-size: 20px;
   cursor: pointer;
-  background-color: #a39f9f;
+  background-color: #adacac;
 }
 .buttons button:active {
   transform: scale(0.99);
 }
 .operator {
-  color: #0ee932;
+  color: #e1ff00;
   
 }
